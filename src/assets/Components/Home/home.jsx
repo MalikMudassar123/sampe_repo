@@ -6,6 +6,7 @@ function Home(){
     <>
     <div className='react'>
         <p>wassi shah React frontend</p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque ut illum officia est dolor in accusantium voluptatum quam. Debitis iusto nulla sit id natus ipsam commodi ipsum laudantium, in quaerat?</p>
     </div>
     
     
